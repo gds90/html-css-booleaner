@@ -10,7 +10,10 @@ header{
     background-repeat: repeat;
 }
 
-main {
+main{
+    padding: 10px;
+}
+footer{
     padding: 10px;
 }
 
