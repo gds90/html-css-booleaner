@@ -10,6 +10,10 @@ header{
     background-repeat: repeat;
 }
 
+main {
+    padding: 10px;
+}
+
 .background-image{
     background-image: url('../img/pattern.png');
     background-size: cover;
@@ -27,4 +31,22 @@ header{
     width: 200px;
     height: 150px;
     margin-left: 10px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+.grey-text{
+    color: gray;
+}
+
+.blue-text{
+    color: lightskyblue;
+    display: inline-block;
+}
+
+.contenitore-foto{
+    padding: 20px 0;
 }
