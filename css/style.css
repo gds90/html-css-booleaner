@@ -47,6 +47,25 @@ h1 {
     display: inline-block;
 }
 
-.contenitore-foto{
+.contenitore{
     padding: 20px 0;
+}
+
+.evidenziatore {
+    background:#FFFF00;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    border: 0;
+}
+
+thead {
+    color: white;
+    background-color: lightskyblue;
+}
+
+.lightblue_bg{
+    background-color: lightblue;
 }
